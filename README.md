@@ -54,7 +54,7 @@ urban areas where property prices fluctuate rapidly due to shifting demands.
 #### • Prediction Algorithm: Random Forest Regressor for predicting prices.
 
 # 4. SYSTEM DESIGN / IMPLEMENTATION 
-## 4.2. Components / Modules: 
+## 4.1. Components / Modules: 
 #### User Interface (Frontend):
 ##### • Allows users to select property details (type, location, rooms, etc.).
 ##### • Displays the predicted price based on the entered details.
